@@ -8,7 +8,6 @@ int main() {
 
   auto list = new ArrayList(/* capacity */);
 
-  // To Do ...
-
   return 0;
 }
+
